@@ -1,0 +1,72 @@
+CRITICAL - 2020-12-28 08:12:05 --> There is no data to {0}.
+#0 C:\xampp\htdocs\restfulapi\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\restfulapi\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\restfulapi\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\restfulapi\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-28 08:14:40 --> There is no data to {0}.
+#0 C:\xampp\htdocs\restfulapi\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\restfulapi\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\restfulapi\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\restfulapi\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-28 08:14:46 --> There is no data to {0}.
+#0 C:\xampp\htdocs\restfulapi\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\restfulapi\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\restfulapi\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\restfulapi\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-28 08:15:39 --> There is no data to {0}.
+#0 C:\xampp\htdocs\restfulapi\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\restfulapi\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\restfulapi\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\restfulapi\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-28 08:16:17 --> There is no data to {0}.
+#0 C:\xampp\htdocs\restfulapi\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\restfulapi\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\restfulapi\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\restfulapi\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-28 08:17:26 --> There is no data to {0}.
+#0 C:\xampp\htdocs\restfulapi\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\restfulapi\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\restfulapi\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\restfulapi\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-28 08:20:31 --> There is no data to {0}.
+#0 C:\xampp\htdocs\restfulapi\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\restfulapi\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\restfulapi\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\restfulapi\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-28 08:32:53 --> There is no data to {0}.
+#0 C:\xampp\htdocs\restfulapi\system\Model.php(679): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\restfulapi\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(914): App\Controllers\Products->create()
+#3 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#4 C:\xampp\htdocs\restfulapi\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\restfulapi\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\restfulapi\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
